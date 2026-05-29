@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'garet';
+					src: url('/wp-content/uploads/useanyfont/1976Garet.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/1976Garet.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.garet{font-family: 'garet' !important;}
+
+		
